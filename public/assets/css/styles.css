@@ -1,0 +1,66 @@
+:root {
+    --kuenda-bg: #FCA001
+}
+
+.kuenda-bg {
+    background-color: #FCA001;
+}
+
+.kuenda-bg-dark {
+    background-color: #f29900;
+}
+
+.kuenda-bg-light {
+    background-color: #ffa60c;
+}
+
+.kuenda-text {
+    color: #FCA001;
+}
+
+.kuenda-text-dark {
+    color: #f29900;
+}
+
+.kuenda-text-light {
+    color: #ffa60c;
+}
+
+.kuenda-border {
+    border-color: #aaa !important;
+    cursor: pointer;
+}
+
+.kuenda-border:hover {
+    border-color: #FCA001 !important;
+}
+
+.kuenda-border-dark {
+    border-color: #f29900;
+}
+
+.kuenda-border-light {
+    border-color: #ffa60c;
+}
+
+.kuenda-btn {
+    background-color: #FCA001 !important;
+}
+
+.kuenda-btn:hover {
+    background-color: #fba30b !important;
+}
+
+.kuenda-btn:active {
+    background-color: #f29900 !important;
+}
+
+.kuenda-btn:focus {
+    background-color: #ffa60c !important;
+}
+
+.btn-action-table {}
+
+.btn-action-table:hover>svg {
+    color: #FCA001;
+}
